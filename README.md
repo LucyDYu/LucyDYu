@@ -14,7 +14,7 @@ I am a Ph.D. student at the [Machine Intelligence and Social Computing (MISC) La
 
 My research focuses on self-evolving agents, agent memory, continual learning, and multimodal learning.
 
-[News](#news) · [Publications](#publications) · [Tutorial](#tutorial)
+[News](#news) · [Publications](#publications) · [Tutorial](#tutorial) · [Tools](#tools)
 
 ## News
 
@@ -116,3 +116,11 @@ My research focuses on self-evolving agents, agent memory, continual learning, a
 *International Joint Conference on Neural Networks (IJCNN 2025)*, Rome, Italy, June 2025.  
 Lead organizer and presenter.  
 [Tutorial Website](https://lucydyu.github.io/MM_CL_T/ijcnn2025.html)
+
+## Tools
+
+- **[PPT Crop for Papers](https://github.com/LucyDYu/ppt-crop-for-papers)**  
+  A macOS workflow to export PowerPoint figures as cropped PDFs and sync them to Google Drive for use in Overleaf.
+
+- **[Day One to Obsidian](https://github.com/LucyDYu/dayone-to-obsidian)**  
+  Convert Day One JSON exports into individual Obsidian notes, preserving media, dates, tags, weather, and location metadata. Supports photos, audio, video, and PDF attachments.
