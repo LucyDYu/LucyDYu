@@ -24,12 +24,12 @@ My research focuses on self-evolving agents, agent memory, continual learning, a
 - **2026 Apr:** One paper has been accepted in **Academia AI and Applications**.
 - **2026 Jan:** One paper has been accepted in **TNNLS**.
 - **2025 Nov:** One paper has been accepted in **AAAI'26**.
-- **2025 May:** One paper has been accepted in **ACL'25**.
-- **2025 Mar:** One paper has been accepted in **CVPR'25**.
 
 <details>
 <summary>Earlier news</summary>
 
+- **2025 May:** One paper has been accepted in **ACL'25**.
+- **2025 Mar:** One paper has been accepted in **CVPR'25**.
 - **2024 Aug:** One paper has been accepted in **ICONIP'24**.
 - **2024 May:** One paper has been accepted in **ACL'24**.
 - **2023 Aug:** Started my Ph.D. at The Chinese University of Hong Kong.
