@@ -14,6 +14,8 @@ I am a Ph.D. student at the [Machine Intelligence and Social Computing (MISC) La
 
 My research focuses on self-evolving agents, agent memory, continual learning, and multimodal learning.
 
+I am seeking full-time and internship opportunities in AI research, particularly in large language models and agents. I also welcome research collaborations with undergraduate and graduate students. Please feel free to get in touch!
+
 [News](#news) · [Publications](#publications) · [Tutorial](#tutorial) · [Tools](#tools)
 
 ## News
