@@ -68,7 +68,7 @@ My research focuses on self-evolving agents, agent memory, continual learning, a
   [Paper](https://arxiv.org/abs/2511.09853) · [GitHub](https://github.com/LucyDYu/ConSurv)
 
 - **[KDD'26] LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition**  
-  Yanyu Chen, Jiyue Jiang, **Dianzhi Yu**, Zheng Wu, Jiahong Liu, Jiaming Han, Xiao Guo, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King  
+  Yanyu Chen\*, Jiyue Jiang\*, **Dianzhi Yu**, Zheng Wu, Jiahong Liu, Jiaming Han, Xiao Guo, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King  
   *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  
   [Paper](https://arxiv.org/abs/2605.24005) · [GitHub](https://github.com/LC-ERD-repo/LC-ERD)
 
@@ -81,12 +81,12 @@ My research focuses on self-evolving agents, agent memory, continual learning, a
 <summary>More conference papers</summary>
 
 - **[ICLR'26] RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback**  
-  Chunyu Miao, Henry Peng Zou, Yangning Li, Yankai Chen, Yibo Wang, Fangxin Wang, Yifan Li, Wooseong Yang, Bowei He, Xinni Zhang, **Dianzhi Yu**, et al., Xue Liu, Irwin King, Philip S. Yu  
+  Chunyu Miao, Henry Peng Zou\*†, Yangning Li\*†, Yankai Chen†, Yibo Wang†, Fangxin Wang, Yifan Li, Wooseong Yang, Bowei He, Xinni Zhang, **Dianzhi Yu**, et al., Xue Liu, Irwin King, Philip S. Yu  
   *Proceedings of the 14th International Conference on Learning Representations*  
   [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/file/725ce5f2b1a8e2e0ac66994e7fefe375-Paper-Conference.pdf) · [GitHub](https://github.com/ChunyuMiao98/RECODE-H)
 
 - **[CVPR'25] pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation**  
-  Yifei Zhang, Hao Zhu, Alysa Ziying Tan, **Dianzhi Yu**, Longtao Huang, Han Yu  
+  Yifei Zhang\*, Hao Zhu\*, Alysa Ziying Tan, **Dianzhi Yu**, Longtao Huang, Han Yu  
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*  
   [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_pFedMxF_Personalized_Federated_Class-Incremental_Learning_with_Mixture_of_Frequency_Aggregation_CVPR_2025_paper.pdf)
 
